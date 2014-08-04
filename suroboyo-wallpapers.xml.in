@@ -73,6 +73,22 @@
     <scolor>#000000</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
+ <wallpaper>
+    <_name>Edusantara</_name>
+    <filename>/usr/share/backgrounds/Edusantara.png</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <_name>Edusantara blue</_name>
+    <filename>/usr/share/backgrounds/Edusantara_blue.png</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
   <wallpaper>
     <_name>Green</_name>
     <filename>/usr/share/backgrounds/Green.png</filename>
