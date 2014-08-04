@@ -1,11 +1,11 @@
-blankon-wallpapers (0.8.7+nmu1) UNRELEASED; urgency=medium
+blankon-wallpapers (0.8.7+edusantara1) anambas; urgency=low
 
   * Add files
     - edusantara-wallpapers.xml.in
     - debian/edusantara-wallpapers.install
     - Edusantara.png and Edusantara_blue.png
 
- -- Syai Mif <syaimif@localhost>  Mon, 04 Aug 2014 20:28:34 +0700
+ -- Syai Mif <syai.unipdu@gmail.com>  Mon, 04 Aug 2014 20:28:34 +0700
 
 blankon-wallpapers (0.8.7) suroboyo-updates; urgency=low
 
