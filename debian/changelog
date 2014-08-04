@@ -1,0 +1,102 @@
+blankon-wallpapers (0.8.7+nmu1) UNRELEASED; urgency=medium
+
+  * Add files
+    - edusantara-wallpapers.xml.in
+    - debian/edusantara-wallpapers.install
+    - Edusantara.png and Edusantara_blue.png
+
+ -- Syai Mif <syaimif@localhost>  Mon, 04 Aug 2014 20:28:34 +0700
+
+blankon-wallpapers (0.8.7) suroboyo-updates; urgency=low
+
+  * Updates in suroboyo-wallpapers.xml.in
+
+ -- Syai Mif <syai.unipdu@gmail.com>  Wed, 05 Mar 2014 11:35:30 +0700
+
+blankon-wallpapers (0.8.6) suroboyo-updates; urgency=low
+
+  * Add extra wallpaper
+
+ -- Syai Mif <syai.unipdu@gmail.com>  Wed, 05 Mar 2014 10:05:06 +0700
+
+blankon-wallpapers (0.8.5) suroboyo; urgency=low
+
+  * fix error load extra wallpaper
+
+ -- mijortsa <azis.astrojim@surabaya.di.blankon.in>  Fri, 08 Nov 2013 23:03:41 +0700
+
+blankon-wallpapers (0.8.4) suroboyo; urgency=low
+
+  * Added extra wallpaper
+
+ -- mijortsa <azis.astrojim@surabaya.di.blankon.in>  Fri, 08 Nov 2013 21:29:45 +0700
+
+blankon-wallpapers (0.8.3) suroboyo; urgency=low
+
+  * debian/control:
+    - Drop conflicts: blankon-wallpapers-rote
+    - Fix typo 
+
+ -- Mahyuddin Idram Ahmad <dotovr@di.blankon.in>  Tue, 29 Oct 2013 17:47:26 +0700
+
+blankon-wallpapers (0.8.2) suroboyo; urgency=low
+
+  * Updates wallpaper
+
+ -- princeofgiri <princeofgiri@di.blankon.in>  Wed, 16 Oct 2013 19:51:31 +0700
+
+blankon-wallpapers (0.8.1) suroboyo; urgency=low
+
+  * Replaces blankon-wallpapers-rote
+
+ -- mijortsa <azis.astrojim@surabaya.di.blankon.in>  Wed, 06 Feb 2013 23:56:29 +0700
+
+blankon-wallpapers (0.8) suroboyo; urgency=low
+
+  * conflicts blankon-wallpapers-rote
+
+ -- mijortsa <azis.astrojim@surabaya.di.blankon.in>  Wed, 19 Dec 2012 14:09:39 +0700
+
+blankon-wallpapers (0.7) suroboyo; urgency=low
+
+  * remove suroboyo folder
+
+ -- mijortsa <azis.astrojim@surabaya.di.blankon.in>  Mon, 10 Dec 2012 19:57:40 +0700
+
+blankon-wallpapers (0.6) suroboyo; urgency=low
+
+  * Added new contextual wallpaper
+
+ -- mijortsa <azis.astrojim@surabaya.di.blankon.in>  Sat, 08 Dec 2012 19:56:46 +0700
+
+blankon-wallpapers (0.5) suroboyo; urgency=low
+
+  * Suroboyo wallpaper
+
+ -- mijortsa <azis.astrojim@surabaya.di.blankon.in>  Sat, 08 Dec 2012 14:12:26 +0700
+
+blankon-wallpapers (0.4) rote; urgency=low
+
+  * added 17-agustus.png
+
+ -- mijortsa <azis.astrojim@surabaya.di.blankon.in>  Thu, 16 Aug 2012 11:26:53 +0700
+
+blankon-wallpapers (0.3) rote; urgency=low
+
+  * Fix duplicate rote.xml.
+  * Fix duplicate name.
+
+ -- Mahyuddin <yudi.al@gmail.com>  Thu, 26 Jul 2012 02:39:43 +0700
+
+blankon-wallpapers (0.2) rote; urgency=low
+
+  * Added contex/rote.xml
+    - Make backgrounds slideshow
+
+ -- Mahyuddin <yudi.al@gmail.com>  Thu, 26 Jul 2012 00:41:22 +0700
+
+blankon-wallpapers (0.1) rote; urgency=low
+
+  * Initial release
+
+ -- Mahyuddin <yudi.al@gmail.com>  Fri, 13 Jul 2012 23:10:18 +0700
